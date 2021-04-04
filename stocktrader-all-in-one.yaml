@@ -295,7 +295,7 @@ spec:
 apiVersion: extensions/v1beta1
 kind: Ingress
 metadata:
-# annotations:
+# annotationss:
 #   ingress.kubernetes.io/rewrite-target: /stock-quote
   name: stock-quote-ingress
 spec:
